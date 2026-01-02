@@ -1,4 +1,4 @@
-**Jokey 😂 – Browser Extension**
+#1 **Jokey 😂 – Browser Extension** 
 
 Jokey is a lightweight and entertaining browser extension that delivers long, descriptive, story-style jokes to refresh your mood.
 The extension supports multiple languages and categories, making it perfect for short breaks, stress relief, and daily laughter.
