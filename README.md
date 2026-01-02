@@ -87,8 +87,7 @@ A fun project built to spread laughter and showcase browser extension developmen
 
 ***📸 Screenshots**
 
-<img width="475" height="602" alt="Screenshot 2026-01-02 174012" src="https://github.com/user-attachments/assets/436e8d4e-e0f1-4a0f-ad3c-5b0769caa8d1" />
-<img width="482" height="603" alt="Screenshot 2026-01-02 174056" src="https://github.com/user-attachments/assets/a3e551b6-1d9d-4483-bf66-3be7c56fd3fa" />
-<img width="475" height="604" alt="Screenshot 2026-01-02 174122" src="https://github.com/user-attachments/assets/34718d96-4e17-49d1-89da-1b96ad3fa9cb" />
+<img width="1429" height="602" alt="jokey" src="https://github.com/user-attachments/assets/9ceb7981-b0cf-47fc-8573-b4afc474d326" />
+
 
 
