@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Jokey",
+  "version": "0.0.1",
+  "description": "Very funny, long jokes in English, Hindi & Marathi with categories and dark mode.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png",
+        "default_title": "Laugh Now 😂"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": ["activeTab"]
+}
+

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ultra Funny Jokes 😂</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body>
+  <div class="app">
+
+    <div class="header">
+      <span class="app-title">😂 Ultra Funny Jokes</span>
+      <button id="darkToggle" class="icon-btn" type="button">🌙</button>
+    </div>
+
+    <!-- Language Selector -->
+    <select id="languageSelect" class="language-select">
+      <option value="english">English</option>
+      <option value="hindi">Hindi</option>
+      <option value="marathi">Marathi</option>
+    </select>
+
+    <!-- Category Selector -->
+    <select id="categorySelect" class="category-select">
+      <option value="random">Random</option>
+      <option value="life">Life</option>
+      <option value="family">Family</option>
+      <option value="office">Office</option>
+      <option value="college">College</option>
+    </select>
+
+    <!-- Joke Box -->
+    <div id="joke" class="joke-box">
+      Loading jokes...
+    </div>
+
+    <!-- Buttons -->
+    <div class="action-buttons">
+      <button id="newJokeBtn" type="button">New Joke</button>
+      <button id="dailyJokeBtn" type="button">Joke of the Day</button>
+    </div>
+
+    <div class="footer">
+      Laugh responsibly 😄
+    </div>
+
+  </div>
+
+  <!-- ONLY external JS -->
+  <script src="popup.js"></script>
+</body>
+</html>
